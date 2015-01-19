@@ -8,3 +8,6 @@ LeetCodeSolution
 
 1. Excel Sheet Column Number：
 这道题主要是思路的转换，一开始做的时候没转换过来，其实把这道题当成进制转换来做就可以了
+
+2.Implement strStr()：
+这道题可以很简单一行就解决，也可以做得有深度点，本来使用kmp，看到鸟哥的微博知道sunday或者bm更高效更容易理解，于是学习了sunday，当做练手了
