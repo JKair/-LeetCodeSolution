@@ -14,3 +14,6 @@ LeetCodeSolution
 
 1. pow(x,n):
 快速幂AC
+
+1. Remove Element:
+总觉得这道题并不严谨，没有判定多个值一样的问题，处理是很简单的。直接删除然后返回长度
