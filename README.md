@@ -47,3 +47,6 @@ LeetCodeSolution
 
 1. Symmetric Tree ：
 这道题也很简单，算是Same Tree的变形，只要拆分成两棵树，两棵树镜像对称，那就只要一棵树的左等于另一棵树的右就可以解决问题了。依然是递归解决
+
+1. Binary Tree Level Order Traversal：
+其实就是分深度而已，使用一个参数去控制，搞定。依旧是递归解决
