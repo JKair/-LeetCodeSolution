@@ -50,3 +50,6 @@ LeetCodeSolution
 
 1. Binary Tree Level Order Traversal：
 其实就是分深度而已，使用一个参数去控制，搞定。依旧是递归解决
+
+1. Maximum Depth of Binary Tree：
+其实就是一个打擂和遍历而已。
