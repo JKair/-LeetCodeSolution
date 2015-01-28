@@ -53,3 +53,6 @@ LeetCodeSolution
 
 1. Maximum Depth of Binary Tree：
 其实就是一个打擂和遍历而已。
+
+1. Minimum Depth of Binary Tree：
+这个和max不大一样，但是总体处理起来还是差不多的。解题过程中有点陷入思维误区，因为要的是最小深度，把left和right赋值为0了，之后永远是0。后来把right和left的值赋值为int_max之后才解决。思路也是递归算而已，算左子树的最小深度，再算右子树的深度，然后每次往下走就深度+1，最后得出左子树和右子树谁小就可以了。有点像分治。
