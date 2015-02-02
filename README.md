@@ -83,3 +83,6 @@ LeetCodeSolution
 
 1. First Missing Positive:
 我没有想到很好的方法，先写着一种比较垃圾的。
+
+1. Binary Tree Zigzag Level Order Traversal：
+这个其实就是(Maximum Depth of Binary Tree)[https://github.com/JKair/LeetCodeSolution/blob/master/1.Easy/Maximum%20Depth%20of%20Binary%20Tree.cpp]的变形来的，一开始脑筋没转过来，一直想怎么让深度为双数的倒转过来。其实只要全部数据遍历完毕在用vector来倒转就好了- -。哎，越简单越是想不到。我的错
