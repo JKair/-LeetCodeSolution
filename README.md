@@ -80,3 +80,6 @@ LeetCodeSolution
 
 1. Reverse Words in a String:
 倒转字符串，很简单，就是只要split处理，然后要注意的一个细节就是，要还给人家一个空格，而且注意，因为存在两个单词之间有五千万个空格这种坑爹的情况，所以如果切割之后为""切勿加上空格。
+
+1. First Missing Positive:
+我没有想到很好的方法，先写着一种比较垃圾的。
