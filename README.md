@@ -51,6 +51,9 @@ LeetCodeSolution
 1. Remove Nth Node From End of List：
 这道题只是去除节点而已，倒过来数，不知道是不是我英文不好，坑爹的题目，说n的值永远有效，我一直以为n是在链表的深度范围内，结果简直坑爹，不是那样子的，注意这个细节就好了，其他不难
 
+1. Valid Parentheses：
+验证是不是符合括号对称而已，用栈就可以解决了。
+
 
 - Medium
 
