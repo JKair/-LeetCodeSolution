@@ -4,7 +4,7 @@ LeetCodeSolution
 
 ###记录
 
-从easy做到hard
+从easy做到hard(并不是每道题我都有做记录。)
 --------------
 
 - Easy:
