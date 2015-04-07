@@ -6,7 +6,7 @@ class Solution:
         if len(num) != 32:
             for x in xrange(32 - len(num)):
                 num = num + '0'
-        self.changeShi(num)
+        return self.changeShi(num)
 
 
     def changeEr(self,n):
@@ -15,9 +15,12 @@ class Solution:
     		result = result + str(n % 2)
     		n = n/2
     	return result
+
     def changeShi(self,n):
         i = 0
         result = 0
+        n = n[::-1]
         for x in xrange(len(n)):
-            result = result + x*2^int(n[i])
+            result = result + int(n[x])*2**i
+            i = i + 1
         return result
