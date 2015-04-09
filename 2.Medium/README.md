@@ -47,3 +47,6 @@
 
 1.Max Points on a Line:
 这个可以根据斜率来做，还是遍历，没什么难度，不过切记，一定要浮点数当下标啊，天啊，被这个坑惨了`float((j.y - i.y))/(j.x - i.x)`
+
+1.Find Minimum in Rotated Sorted Array:
+二分法
