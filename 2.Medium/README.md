@@ -42,16 +42,16 @@
 1. Swap Nodes in Pairs:
 一开始我就弄错题意啊，悲剧啊！后来才弄清楚了，原来只是相邻交换而已。很容易，C++直接AC。
 
-1.Repeated DNA Sequences:
+1. Repeated DNA Sequences:
 一波三折啊，一看到题目就想到要以长度为10的字符串开始遍历了，第一次用list来存储，用count来找重，结果超内存，于是改进，用数字来记录，使其有一个特征码，结果超时，于是改用字典来记录，AC
 
-1.Max Points on a Line:
+1. Max Points on a Line:
 这个可以根据斜率来做，还是遍历，没什么难度，不过切记，一定要浮点数当下标啊，天啊，被这个坑惨了`float((j.y - i.y))/(j.x - i.x)`
 
-1.Find Minimum in Rotated Sorted Array:
+1. Find Minimum in Rotated Sorted Array:
 二分法
 
-1.Binary Tree Preorder Traversal：
+1. Binary Tree Preorder Traversal：
 题目要讲递归改装成迭代，好吧，改好了
 
 1. Gas Station:
