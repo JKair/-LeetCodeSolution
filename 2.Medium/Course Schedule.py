@@ -6,7 +6,6 @@ class Solution:
     	if not prerequisites:
     		return True
         indegrees = []
-        result = []
         edges = 0
         zeroIndeg = []
         for i in xrange(numCourses):
