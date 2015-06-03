@@ -29,5 +29,3 @@ class Solution:
         	return True
         else:
         	return False
-a = Solution()
-print a.canFinish(3, [[1,0],[2,1]])
