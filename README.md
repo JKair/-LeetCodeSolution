@@ -1,8 +1,12 @@
 LeetCodeSolution
 =================
 [算法](https://leetcode.com/problemset/algorithms/)。
-只做C++解法。
 
-|id|标题|难度|
-|:--:|:--:|:--:|
-|[1](https://leetcode.com/problems/two-sum/)|[Two Sum](./Algorithms/Two Sum.md)|Easy|
+|id|标题|难度|语言|
+|:--:|:--:|:--:|:--:|
+|2|||||
+|2|||||
+|2|||||
+|2|||||
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[C++](./Algorithms/Add Two Numbers.md)|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|[C++](./Algorithms/Two Sum.md)|
