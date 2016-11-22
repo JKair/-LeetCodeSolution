@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|8|[String to Integer](https://leetcode.com/problems/string-to-integer)|Easy|[C++](./Algorithms/String to Integer.md)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C++](./Algorithms/Reverse Integer.md)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|Easy|[C++](./Algorithms/ZigZag Conversion.md)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[C++](./Algorithms/Longest Substring Without Repeating Characters.md)|
