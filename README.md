@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C++](./Algorithms/Palindrome Number.md)|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer)|Easy|[C++](./Algorithms/String to Integer.md)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C++](./Algorithms/Reverse Integer.md)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|Easy|[C++](./Algorithms/ZigZag Conversion.md)|
