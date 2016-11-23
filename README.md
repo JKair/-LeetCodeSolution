@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|Medium|[C++](./Algorithms/Letter Combinations of a Phone Number.md)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Easy|[C++](./Algorithms/Longest Common Prefix.md)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|Easy|[C++](./Algorithms/Roman to Integer.md)|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|Medium|[C++](./Algorithms/Integer to Roman.md)|
