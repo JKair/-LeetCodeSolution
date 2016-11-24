@@ -5,6 +5,7 @@
 20,Valid Parentheses,E
 19,Remove Nth Node From End of List,E
 17,Letter Combinations of a Phone Number,M
+15,3Sum,M
 14,Longest Common Prefix,E
 13,Roman to Integer,E
 12,Integer to Roman,M
