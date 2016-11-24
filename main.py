@@ -12,7 +12,7 @@ LeetCodeSolution
 body = ""
 f = open('readme.txt')
 line = f.readline()
-
+nandu = {'M' : 'Medium', 'E':'Easy', 'H':'Hard'}
 readme = []
 while line:
     readme.append(line)
@@ -21,7 +21,7 @@ while line:
 for alg in readme:
     alg = alg.replace('\n', '')
     alg = alg.split(',')
-    body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|" + alg[2] + '|[C++](./Algorithms/' + alg[1] +".md)" + "|\n"
+    body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|" + nandu[alg[2]] + '|[C++](./Algorithms/' + alg[1] +".md)" + "|\n"
 res = title+body
 
 f.close()

@@ -1,15 +1,16 @@
-21,Merge Two Sorted Lists,Easy
-20,Valid Parentheses,Easy
-19,Remove Nth Node From End of List,Easy
-17,Letter Combinations of a Phone Number,Medium
-14,Longest Common Prefix,Easy
-13,Roman to Integer,Easy
-12,Integer to Roman,Medium
-9,Palindrome Number,Easy
-8,String to Integer,Easy
-7,Reverse Integer,Easy
-6,ZigZag Conversion,Easy
-5,Longest Palindromic Substring,Medium
-3,Longest Substring Without Repeating Characters,Medium
-2,Add Two Numbers,Medium
-1,Two Sum,Easy
+22,Generate Parentheses,M
+21,Merge Two Sorted Lists,E
+20,Valid Parentheses,E
+19,Remove Nth Node From End of List,E
+17,Letter Combinations of a Phone Number,M
+14,Longest Common Prefix,E
+13,Roman to Integer,E
+12,Integer to Roman,M
+9,Palindrome Number,E
+8,String to Integer,E
+7,Reverse Integer,E
+6,ZigZag Conversion,E
+5,Longest Palindromic Substring,M
+3,Longest Substring Without Repeating Characters,M
+2,Add Two Numbers,M
+1,Two Sum,E
