@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|Easy|[C++](./Algorithms/Swap Nodes in Pairs.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|Hard|[C++](./Algorithms/Merge k Sorted Lists.md)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|Medium|[C++](./Algorithms/Generate Parentheses.md)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|Easy|[C++](./Algorithms/Merge Two Sorted Lists.md)|
