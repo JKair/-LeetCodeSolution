@@ -1,3 +1,4 @@
+27,Remove Element,E
 24,Swap Nodes in Pairs,E
 23,Merge k Sorted Lists,H
 22,Generate Parentheses,M
