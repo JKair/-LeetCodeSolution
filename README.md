@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr())|Easy|[C++](./Algorithms/Implement strStr().md)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[C++](./Algorithms/Remove Element.md)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Easy|[C++](./Algorithms/Remove Duplicates from Sorted Array.md)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|Easy|[C++](./Algorithms/Swap Nodes in Pairs.md)|
