@@ -1,3 +1,4 @@
+31,Next Permutation,M
 28,Implement strStr(),E
 27,Remove Element,E
 26,Remove Duplicates from Sorted Array,E

@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|Medium|[C++](./Algorithms/Next Permutation.md)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr())|Easy|[C++](./Algorithms/Implement strStr().md)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[C++](./Algorithms/Remove Element.md)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Easy|[C++](./Algorithms/Remove Duplicates from Sorted Array.md)|
