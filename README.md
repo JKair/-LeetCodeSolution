@@ -6,6 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|Easy|[C++](./Algorithms/Remove Element.md)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Easy|[C++](./Algorithms/Remove Duplicates from Sorted Array.md)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|Easy|[C++](./Algorithms/Swap Nodes in Pairs.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|Hard|[C++](./Algorithms/Merge k Sorted Lists.md)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|Medium|[C++](./Algorithms/Generate Parentheses.md)|
