@@ -4,6 +4,7 @@
 21,Merge Two Sorted Lists,E
 20,Valid Parentheses,E
 19,Remove Nth Node From End of List,E
+18,4Sum,M
 17,Letter Combinations of a Phone Number,M
 16,3Sum Closest,M
 15,3Sum,M
