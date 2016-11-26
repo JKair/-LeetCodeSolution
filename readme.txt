@@ -1,3 +1,4 @@
+34,Search for a Range,M
 31,Next Permutation,M
 28,Implement strStr(),E
 27,Remove Element,E
