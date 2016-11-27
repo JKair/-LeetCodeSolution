@@ -27,6 +27,7 @@ public:
     }
 };
 ```
+
 第二种：
 ```
 class Solution {
