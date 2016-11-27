@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|35|[ Search Insert Position](https://leetcode.com/problems/-search-insert-position)|Medium|[C++](./Algorithms/ Search Insert Position.md)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|Medium|[C++](./Algorithms/Search for a Range.md)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|Medium|[C++](./Algorithms/Next Permutation.md)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr())|Easy|[C++](./Algorithms/Implement strStr().md)|
