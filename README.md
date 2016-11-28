@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|Easy|[C++](./Algorithms/Valid Sudoku.md)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Medium|[C++](./Algorithms/Search Insert Position.md)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|Medium|[C++](./Algorithms/Search for a Range.md)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|Medium|[C++](./Algorithms/Next Permutation.md)|
