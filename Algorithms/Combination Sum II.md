@@ -79,7 +79,6 @@ public:
         vector<vector<int>> res;
         combinationSum2(candidates, out, res, target, 0);
 
-
         return res;
     }
 };

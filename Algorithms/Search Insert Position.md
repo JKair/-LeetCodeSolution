@@ -48,3 +48,22 @@ public:
     }
 };
 ```
+
+解法三：非常淫荡，将数插入数组，然后排序，再找到位置。时间复杂度取决于排序方法。
+
+```
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+        nums.push_back(target);
+        sort(nums.begin(), nums.end());
+        int res = 0;
+
+        for (; res < nums.size(); res++) {
+            if (nums[res] == target) return res;
+        }
+
+        return res;
+    }
+};
+```
