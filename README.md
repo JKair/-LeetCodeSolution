@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|Medium|[C++](./Algorithms/Combination Sum II.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|Medium|[C++](./Algorithms/Combination Sum.md)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|Easy|[C++](./Algorithms/Valid Sudoku.md)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|Medium|[C++](./Algorithms/Search Insert Position.md)|
