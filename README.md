@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[C++](./Algorithms/Permutations.md)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|Hard|[C++](./Algorithms/First Missing Positive.md)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|Medium|[C++](./Algorithms/Combination Sum II.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|Medium|[C++](./Algorithms/Combination Sum.md)|
