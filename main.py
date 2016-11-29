@@ -20,7 +20,7 @@ while line:
 
 for alg in readme:
     alg = alg.replace('\n', '')
-    alg = alg.split(',')
+    alg = alg.split('@')
     body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|" + nandu[alg[2]] + '|[C++](./Algorithms/' + alg[1] +".md)" + "|\n"
 res = title+body
 
