@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|51|[N-Queens](https://leetcode.com/problems/n-queens)|Hard|[C++](./Algorithms/N-Queens.md)|
 |50|[Pow(x, n)](https://leetcode.com/problems/pow(x,-n))|Medium|[C++](./Algorithms/Pow(x, n).md)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|Medium|[C++](./Algorithms/Group Anagrams.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[C++](./Algorithms/Permutations II.md)|

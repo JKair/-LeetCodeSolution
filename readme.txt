@@ -1,3 +1,4 @@
+51@N-Queens@H
 50@Pow(x, n)@M
 49@Group Anagrams@M
 47@Permutations II@M
