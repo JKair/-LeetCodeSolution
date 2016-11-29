@@ -68,3 +68,5 @@ public:
     }
 };
 ```
+
+相似问题[N-Queens II](./N-Queens II.md)
