@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|Medium|[C++](./Algorithms/Spiral Matrix.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|Medium|[C++](./Algorithms/Maximum Subarray.md)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|Hard|[C++](./Algorithms/N-Queens II.md)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|Hard|[C++](./Algorithms/N-Queens.md)|
