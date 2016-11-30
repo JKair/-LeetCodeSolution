@@ -15,6 +15,7 @@ LeetCodeSolution
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|Medium|[C++](./Algorithms/Group Anagrams.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[C++](./Algorithms/Permutations II.md)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[C++](./Algorithms/Permutations.md)|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|Hard|[C++](./Algorithms/Jump Game II.md)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|Hard|[C++](./Algorithms/First Missing Positive.md)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|Medium|[C++](./Algorithms/Combination Sum II.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|Medium|[C++](./Algorithms/Combination Sum.md)|
