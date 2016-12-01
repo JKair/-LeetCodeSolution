@@ -86,3 +86,6 @@ class Solution:
         result += intervals[i:]
         return result
 ```
+
+
+相似题目[`Merge Intervals`](./Merge Intervals.md)

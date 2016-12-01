@@ -1,4 +1,5 @@
 59@Spiral Matrix II@M
+56@Merge Intervals@H
 57@Insert Interval@H
 55@Jump Game@M
 54@Spiral Matrix@M

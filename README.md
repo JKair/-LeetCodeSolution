@@ -6,6 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|Medium|[C++](./Algorithms/Spiral Matrix II.md)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|Hard|[C++](./Algorithms/Merge Intervals.md)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|Hard|[C++](./Algorithms/Insert Interval.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|Medium|[C++](./Algorithms/Jump Game.md)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|Medium|[C++](./Algorithms/Spiral Matrix.md)|
