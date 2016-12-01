@@ -5,6 +5,9 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Medium|[C++](./Algorithms/Minimum Path Sum.md)|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Medium|[C++](./Algorithms/Unique Paths II.md)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Medium|[C++](./Algorithms/Unique Paths.md)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|Medium|[C++](./Algorithms/Rotate List.md)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|Medium|[C++](./Algorithms/Spiral Matrix II.md)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|Easy|[C++](./Algorithms/Length of Last Word.md)|
