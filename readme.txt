@@ -1,3 +1,4 @@
+67@Add Binary@E
 66@Plus One@E
 64@Minimum Path Sum@M
 63@Unique Paths II@M
