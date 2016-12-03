@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrt(x))|Medium|[C++](./Algorithms/Sqrt(x).md)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|Easy|[C++](./Algorithms/Add Binary.md)|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|Easy|[C++](./Algorithms/Plus One.md)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Medium|[C++](./Algorithms/Minimum Path Sum.md)|

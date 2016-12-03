@@ -1,3 +1,4 @@
+69@Sqrt(x)@M
 67@Add Binary@E
 66@Plus One@E
 64@Minimum Path Sum@M
