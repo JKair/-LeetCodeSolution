@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path)|Medium|[C++](./Algorithms/Simplify Path.md)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|Easy|[C++](./Algorithms/Climbing Stairs.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrt(x))|Medium|[C++](./Algorithms/Sqrt(x).md)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|Easy|[C++](./Algorithms/Add Binary.md)|
