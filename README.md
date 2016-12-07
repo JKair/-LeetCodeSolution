@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Medium|[C++](./Algorithms/Set Matrix Zeroes.md)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|Medium|[C++](./Algorithms/Simplify Path.md)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|Easy|[C++](./Algorithms/Climbing Stairs.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrt(x))|Medium|[C++](./Algorithms/Sqrt(x).md)|
