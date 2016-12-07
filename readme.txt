@@ -1,3 +1,4 @@
+71@Simplify Path@M
 70@Climbing Stairs@E
 69@Sqrt(x)@M
 67@Add Binary@E
