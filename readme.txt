@@ -1,3 +1,4 @@
+78@Subsets@M
 77@Combinations@M
 75@Sort Colors@M
 74@Search a 2D Matrix@M

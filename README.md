@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|78|[Subsets](https://leetcode.com/problems/subsets)|Medium|[C++](./Algorithms/Subsets.md)|
 |77|[Combinations](https://leetcode.com/problems/combinations)|Medium|[C++](./Algorithms/Combinations.md)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|Medium|[C++](./Algorithms/Sort Colors.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|Medium|[C++](./Algorithms/Search a 2D Matrix.md)|
