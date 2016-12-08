@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|Medium|[C++](./Algorithms/Remove Duplicates from Sorted Array II.md)|
 |78|[Subsets](https://leetcode.com/problems/subsets)|Medium|[C++](./Algorithms/Subsets.md)|
 |77|[Combinations](https://leetcode.com/problems/combinations)|Medium|[C++](./Algorithms/Combinations.md)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|Medium|[C++](./Algorithms/Sort Colors.md)|
