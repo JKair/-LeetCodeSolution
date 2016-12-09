@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|86|[Partition List](https://leetcode.com/problems/partition-list)|Medium|[C++](./Algorithms/Partition List.md)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|Easy|[C++](./Algorithms/Remove Duplicates from Sorted List.md)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|Medium|[C++](./Algorithms/Remove Duplicates from Sorted List II.md)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|Medium|[C++](./Algorithms/Remove Duplicates from Sorted Array II.md)|
