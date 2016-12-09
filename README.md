@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|Easy|[C++](./Algorithms/Merge Sorted Array.md)|
 |86|[Partition List](https://leetcode.com/problems/partition-list)|Medium|[C++](./Algorithms/Partition List.md)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|Easy|[C++](./Algorithms/Remove Duplicates from Sorted List.md)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|Medium|[C++](./Algorithms/Remove Duplicates from Sorted List II.md)|
