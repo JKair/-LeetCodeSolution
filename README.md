@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways)|Medium|[C++](./Algorithms/Decode Ways.md)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)|Medium|[C++](./Algorithms/Subsets II.md)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|Easy|[C++](./Algorithms/Merge Sorted Array.md)|
 |86|[Partition List](https://leetcode.com/problems/partition-list)|Medium|[C++](./Algorithms/Partition List.md)|
