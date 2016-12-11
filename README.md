@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|Easy|[C++](./Algorithms/Same Tree.md)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|Medium|[C++](./Algorithms/Validate Binary Search Tree.md)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string)|Hard|[C++](./Algorithms/Interleaving String.md)|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|Medium|[C++](./Algorithms/Unique Binary Search Trees.md)|
