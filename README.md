@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|Medium|[C++](./Algorithms/Unique Binary Search Trees.md)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|Medium|[C++](./Algorithms/Binary Tree Inorder Traversal.md)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways)|Medium|[C++](./Algorithms/Decode Ways.md)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)|Medium|[C++](./Algorithms/Subsets II.md)|
