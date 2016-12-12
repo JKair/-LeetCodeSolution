@@ -74,17 +74,17 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> res;
         if (!root) return res;
-        queue<TreeNode*> temp;
-        temp.push(root);
-        while (!temp.empty()) {
+        queue<TreeNode*> que;
+        que.push(root);
+        while (!que.empty()) {
             vector<int> temp;
-            int size = temp.size();
+            int size = que.size();
             for (int i = 0; i < size; i++) {
-                TreeNode *j = temp.front();
-                temp.pop();
+                TreeNode *j = que.front();
+                que.pop();
                 temp.push_back(j->val);
-                if (j->left) temp.push(j->left);
-                if (j->right) temp.push(j->right);
+                if (j->left) que.push(j->left);
+                if (j->right) que.push(j->right);
             }
             res.push_back(temp);
         }
@@ -92,3 +92,5 @@ public:
     }
 };
 ```
+
+[Binary Tree Zigzag Level Order Traversal](./Binary Tree Zigzag Level Order Traversal.md)
