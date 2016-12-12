@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|Easy|[C++](./Algorithms/Path Sum.md)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|Easy|[C++](./Algorithms/Binary Tree Level Order Traversal II.md)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|[C++](./Algorithms/Maximum Depth of Binary Tree.md)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|Medium|[C++](./Algorithms/Binary Tree Zigzag Level Order Traversal.md)|
