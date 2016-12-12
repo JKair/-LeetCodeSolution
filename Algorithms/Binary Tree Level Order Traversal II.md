@@ -60,3 +60,42 @@ public:
     }
 };
 ```
+
+
+迭代：
+```
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    vector<vector<int>> levelOrderBottom(TreeNode* root) {
+        vector<vector<int>> res;
+        if (!root) return res;
+        queue<TreeNode*> que;
+        que.push(root);
+        while (!que.empty()) {
+            vector<int> temp;
+            int size = que.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode *j = que.front();
+                que.pop();
+                temp.push_back(j->val);
+                if (j->left) que.push(j->left);
+                if (j->right) que.push(j->right);
+            }
+            res.insert(res.begin(), temp);
+        }
+        return res;
+    }
+};
+```
+
+
+相似题目：[Binary Tree Level Order Traversal](./Binary Tree Level Order Traversal.md)、[Binary Tree Zigzag Level Order Traversal](Binary Tree Zigzag Level Order Traversal.md)
