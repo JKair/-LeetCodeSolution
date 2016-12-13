@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|113|[Path Su](https://leetcode.com/problems/path-su)|Easy|[C++](./Algorithms/Easy/Path Su.md)|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|Easy|[C++](./Algorithms/Easy/Path Sum.md)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|Easy|[C++](./Algorithms/Easy/Balanced Binary Tree.md)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|Easy|[C++](./Algorithms/Easy/Binary Tree Level Order Traversal II.md)|
