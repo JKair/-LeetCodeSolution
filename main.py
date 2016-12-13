@@ -18,13 +18,13 @@ while line:
     readme.append(line)
     line = f.readline()
 
+f.close()
+
 for alg in readme:
     alg = alg.replace('\n', '')
     alg = alg.split('@')
-    body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|" + nandu[alg[2]] + '|[C++](./Algorithms/' + alg[1] +".md)" + "|\n"
+    body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|" + nandu[alg[2]] + '|[C++](./Algorithms/' + nandu[alg[2]] + '/' + alg[1] +".md)" + "|\n"
 res = title+body
-
-f.close()
 
 with open("README.md", 'wb') as code:
     code.write(res)
