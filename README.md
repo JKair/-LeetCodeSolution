@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle)|Easy|[C++](./Algorithms/Easy/Pascal's Triangle.md)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|Medium|[C++](./Algorithms/Medium/Populating Next Right Pointers in Each Node.md)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|Medium|[C++](./Algorithms/Medium/Flatten Binary Tree to Linked List.md)|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|Medium|[C++](./Algorithms/Medium/Path Sum II.md)|
