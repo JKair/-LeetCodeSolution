@@ -15,9 +15,10 @@ Output: 0
 
 In this case, no transaction is done, i.e. max profit = 0.
 
-这道题就是让我们买股票，从左往右就是第n天的意思，然后让我们算出，最多能够赚多少钱。
+这道题就是让我们买股票，从左往右就是第n天的意思，然后让我们算出，只能买卖一次最多能够赚多少钱。
 
 解法：这道题其实我们要记录就是今天为止以前最低点的买入是多少，因为能够赚钱的必定是升序的，然后不停地维护最低点和当天价格的差以及最大值之间就可以解决这个问题了。
+
 ```
 class Solution {
 public:
@@ -34,3 +35,5 @@ public:
     }
 };
 ```
+
+相似题目[Best Time to Buy and Sell Stock II](../Medium/Best Time to Buy and Sell Stock II.md)
