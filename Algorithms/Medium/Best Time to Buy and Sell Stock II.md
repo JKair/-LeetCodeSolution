@@ -23,3 +23,5 @@ public:
     }
 };
 ```
+
+相似题目[Best Time to Buy and Sell Stock](../Easy/Best Time to Buy and Sell Stock.md)
