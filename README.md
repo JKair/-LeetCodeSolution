@@ -5,7 +5,8 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
-|133|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|Medium|[C++](./Algorithms/Medium/Path Sum II.md)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|Medium|[C++](./Algorithms/Medium/Flatten Binary Tree to Linked List.md)|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|Medium|[C++](./Algorithms/Medium/Path Sum II.md)|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|Easy|[C++](./Algorithms/Easy/Path Sum.md)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|Easy|[C++](./Algorithms/Easy/Balanced Binary Tree.md)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|Easy|[C++](./Algorithms/Easy/Binary Tree Level Order Traversal II.md)|
