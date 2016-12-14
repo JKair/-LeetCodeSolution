@@ -41,3 +41,5 @@ public:
     }
 };
 ```
+
+相似题目[Pascal's Triangle II](./Pascal's Triangle II.md)
