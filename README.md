@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|Easy|[C++](./Algorithms/Easy/Best Time to Buy and Sell Stock.md)|
 |120|[Triangle](https://leetcode.com/problems/triangle)|Medium|[C++](./Algorithms/Medium/Triangle.md)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii)|Easy|[C++](./Algorithms/Easy/Pascal's Triangle II.md)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle)|Easy|[C++](./Algorithms/Easy/Pascal's Triangle.md)|
