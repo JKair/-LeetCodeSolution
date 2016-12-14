@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|120|[Triangle](https://leetcode.com/problems/triangle)|Medium|[C++](./Algorithms/Medium/Triangle.md)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii)|Easy|[C++](./Algorithms/Easy/Pascal's Triangle II.md)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle)|Easy|[C++](./Algorithms/Easy/Pascal's Triangle.md)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|Medium|[C++](./Algorithms/Medium/Populating Next Right Pointers in Each Node.md)|
