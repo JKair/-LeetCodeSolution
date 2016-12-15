@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Medium|[C++](./Algorithms/Medium/Palindrome Partitioning.md)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|Medium|[C++](./Algorithms/Medium/Sum Root to Leaf Numbers.md)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|Easy|[C++](./Algorithms/Easy/Valid Palindrome.md)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Medium|[C++](./Algorithms/Medium/Best Time to Buy and Sell Stock II.md)|
