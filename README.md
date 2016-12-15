@@ -87,6 +87,7 @@ LeetCodeSolution
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|Easy|[C++](./Algorithms/Easy/Roman to Integer.md)|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|Medium|[C++](./Algorithms/Medium/Integer to Roman.md)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|Medium|[C++](./Algorithms/Medium/Container With Most Water.md)|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|Hard|[C++](./Algorithms/Hard/Regular Expression Matching.md)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|Easy|[C++](./Algorithms/Easy/Palindrome Number.md)|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer)|Easy|[C++](./Algorithms/Easy/String to Integer.md)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|Easy|[C++](./Algorithms/Easy/Reverse Integer.md)|
