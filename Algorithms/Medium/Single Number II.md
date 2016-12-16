@@ -42,3 +42,6 @@ public:
     }
 };
 ```
+
+
+相似题目[Single Number](../Easy/Single Number.md)
