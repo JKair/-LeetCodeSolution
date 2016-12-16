@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii)|Medium|[C++](./Algorithms/Medium/Single Number II.md)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[C++](./Algorithms/Easy/Single Number.md)|
 |135|[Candy](https://leetcode.com/problems/candy)|Hard|[C++](./Algorithms/Hard/Candy.md)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|Medium|[C++](./Algorithms/Medium/Gas Station.md)|
