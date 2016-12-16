@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|135|[Candy](https://leetcode.com/problems/candy)|Hard|[C++](./Algorithms/Hard/Candy.md)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|Medium|[C++](./Algorithms/Medium/Gas Station.md)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Medium|[C++](./Algorithms/Medium/Palindrome Partitioning.md)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|Medium|[C++](./Algorithms/Medium/Sum Root to Leaf Numbers.md)|
