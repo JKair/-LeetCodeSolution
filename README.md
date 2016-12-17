@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii)|Hard|[C++](./Algorithms/Hard/Word Break II.md)|
 |139|[Word Break](https://leetcode.com/problems/word-break)|Medium|[C++](./Algorithms/Medium/Word Break.md)|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii)|Medium|[C++](./Algorithms/Medium/Single Number II.md)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[C++](./Algorithms/Easy/Single Number.md)|
