@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|Medium|[C++](./Algorithms/Medium/Binary Tree Preorder Traversal.md)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|Medium|[C++](./Algorithms/Medium/Reorder List.md)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|Medium|[C++](./Algorithms/Medium/Linked List Cycle II.md)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|Easy|[C++](./Algorithms/Easy/Linked List Cycle.md)|
