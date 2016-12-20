@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|148|[Sort List](https://leetcode.com/problems/sort-list)|Medium|[C++](./Algorithms/Medium/Sort List.md)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|Medium|[C++](./Algorithms/Medium/Insertion Sort List.md)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|Hard|[C++](./Algorithms/Hard/Binary Tree Postorder Traversal.md)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|Medium|[C++](./Algorithms/Medium/Binary Tree Preorder Traversal.md)|
