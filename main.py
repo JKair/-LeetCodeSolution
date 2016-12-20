@@ -4,7 +4,7 @@ import os
 title = """
 LeetCodeSolution
 =================
-[算法](https://leetcode.com/problemset/algorithms/)。
+有些题目没有，要么是进度还没到，要么就是付费题目没钱买，要么就是还没思路，[我的进度](https://leetcode.com/kair/)。
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|

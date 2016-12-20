@@ -1,10 +1,11 @@
 
 LeetCodeSolution
 =================
-[算法](https://leetcode.com/problemset/algorithms/)。
+有些题目没有，要么是进度还没到，要么就是付费题目没钱买，要么就是还没思路，[我的进度](https://leetcode.com/kair/)。
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|Medium|[C++](./Algorithms/Medium/Insertion Sort List.md)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|Hard|[C++](./Algorithms/Hard/Binary Tree Postorder Traversal.md)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|Medium|[C++](./Algorithms/Medium/Binary Tree Preorder Traversal.md)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|Medium|[C++](./Algorithms/Medium/Reorder List.md)|
