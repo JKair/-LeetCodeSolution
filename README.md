@@ -82,6 +82,7 @@ LeetCodeSolution
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[C++](./Algorithms/Medium/Permutations II.md)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[C++](./Algorithms/Medium/Permutations.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|Hard|[C++](./Algorithms/Hard/Jump Game II.md)|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|Hard|[C++](./Algorithms/Hard/Trapping Rain Water.md)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|Hard|[C++](./Algorithms/Hard/First Missing Positive.md)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|Medium|[C++](./Algorithms/Medium/Combination Sum II.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|Medium|[C++](./Algorithms/Medium/Combination Sum.md)|

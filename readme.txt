@@ -75,6 +75,7 @@
 47@Permutations II@M
 46@Permutations@M
 45@Jump Game II@H
+42@Trapping Rain Water@H
 41@First Missing Positive@H
 40@Combination Sum II@M
 39@Combination Sum@M
