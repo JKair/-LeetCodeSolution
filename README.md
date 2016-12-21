@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|Hard|[C++](./Algorithms/Hard/Max Points on a Line.md)|
 |148|[Sort List](https://leetcode.com/problems/sort-list)|Medium|[C++](./Algorithms/Medium/Sort List.md)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|Medium|[C++](./Algorithms/Medium/Insertion Sort List.md)|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|Hard|[C++](./Algorithms/Hard/Binary Tree Postorder Traversal.md)|
