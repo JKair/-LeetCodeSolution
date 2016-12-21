@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|Medium|[C++](./Algorithms/Medium/Find Minimum in Rotated Sorted Array.md)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|Medium|[C++](./Algorithms/Medium/Maximum Product Subarray.md)|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|Medium|[C++](./Algorithms/Medium/Reverse Words in a String.md)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|Medium|[C++](./Algorithms/Medium/Evaluate Reverse Polish Notation.md)|
