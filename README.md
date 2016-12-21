@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|Medium|[C++](./Algorithms/Medium/Evaluate Reverse Polish Notation.md)|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|Hard|[C++](./Algorithms/Hard/Max Points on a Line.md)|
 |148|[Sort List](https://leetcode.com/problems/sort-list)|Medium|[C++](./Algorithms/Medium/Sort List.md)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list)|Medium|[C++](./Algorithms/Medium/Insertion Sort List.md)|
