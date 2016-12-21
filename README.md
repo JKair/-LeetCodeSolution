@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|Medium|[C++](./Algorithms/Medium/Maximum Product Subarray.md)|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|Medium|[C++](./Algorithms/Medium/Reverse Words in a String.md)|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|Medium|[C++](./Algorithms/Medium/Evaluate Reverse Polish Notation.md)|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)|Hard|[C++](./Algorithms/Hard/Max Points on a Line.md)|
