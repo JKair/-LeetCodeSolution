@@ -6,6 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance)|Medium|没钱买|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[C++](./Algorithms/Easy/Intersection of Two Linked Lists.md)|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|Hard|没钱买|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii---call-multiple-times)|Hard|没钱买|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)|Easy|没钱买|
