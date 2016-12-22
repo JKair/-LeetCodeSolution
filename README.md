@@ -5,6 +5,8 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap)|Hard|[C++](./Algorithms/Hard/Maximum Gap.md)|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges)|Medium|没钱买|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|Medium|[C++](./Algorithms/Medium/Find Peak Element.md)|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance)|Medium|没钱买|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|[C++](./Algorithms/Easy/Intersection of Two Linked Lists.md)|
