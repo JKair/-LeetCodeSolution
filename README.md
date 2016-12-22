@@ -5,6 +5,11 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance)|Medium|没钱买|
+|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|Hard|没钱买|
+|158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii---call-multiple-times)|Hard|没钱买|
+|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)|Easy|没钱买|
+|156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down)|Medium|没钱买|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|[C++](./Algorithms/Easy/Min Stack.md)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|Hard|[C++](./Algorithms/Hard/Find Minimum in Rotated Sorted Array II.md)|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|Medium|[C++](./Algorithms/Medium/Find Minimum in Rotated Sorted Array.md)|
