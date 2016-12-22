@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|Easy|[C++](./Algorithms/Easy/Min Stack.md)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|Hard|[C++](./Algorithms/Hard/Find Minimum in Rotated Sorted Array II.md)|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|Medium|[C++](./Algorithms/Medium/Find Minimum in Rotated Sorted Array.md)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|Medium|[C++](./Algorithms/Medium/Maximum Product Subarray.md)|
