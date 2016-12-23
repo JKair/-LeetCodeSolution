@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|Medium|[C++](./Algorithms/Medium/Two Sum II - Input array is sorted.md)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|Easy|[C++](./Algorithms/Easy/Compare Version Numbers.md)|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap)|Hard|[C++](./Algorithms/Hard/Maximum Gap.md)|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges)|Medium|没钱买|
