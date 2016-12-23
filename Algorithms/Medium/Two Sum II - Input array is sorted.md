@@ -32,3 +32,5 @@ public:
     }
 };
 ```
+
+相似题目[Two Sum](../Easy/Two Sum.md)

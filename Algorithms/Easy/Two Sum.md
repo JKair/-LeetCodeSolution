@@ -54,4 +54,4 @@ public:
 };
 ```
 
-相似题目：[3Sum](./3Sum.md)、[3Sum Closest](./3Sum Closest.md)、[4Sum](./4Sum.md)
+相似题目：[3Sum](../Medium/3Sum.md)、[3Sum Closest](../Medium/3Sum Closest.md)、[4Sum](../Medium/4Sum.md)、[Two Sum II - Input array is sorted](../Medium/Two Sum II - Input array is sorted)

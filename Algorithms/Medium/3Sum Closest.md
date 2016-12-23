@@ -34,4 +34,4 @@ public:
 };
 ```
 
-相似题目：[Two Sum](./Two Sum.md)、[3Sum](./3Sum.md)、[4Sum](./4Sum.md)
+相似题目：[Two Sum](../Easy/Two Sum.md)、[3Sum](./3Sum.md)、[4Sum](./4Sum.md)
