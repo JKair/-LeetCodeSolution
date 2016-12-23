@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)|Medium|[C++](./Algorithms/Medium/Binary Search Tree Iterator.md)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|Easy|[C++](./Algorithms/Easy/Factorial Trailing Zeroes.md)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|Easy|[C++](./Algorithms/Easy/Excel Sheet Column Number.md)|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii---data-structure-design)|Easy|没钱买|
