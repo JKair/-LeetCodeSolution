@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|169|[Majority Element](https://leetcode.com/problems/majority-element)|Easy|[C++](./Algorithms/Easy/Majority Element.md)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|Easy|[C++](./Algorithms/Easy/Excel Sheet Column Title.md)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|Medium|[C++](./Algorithms/Medium/Two Sum II - Input array is sorted.md)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|Easy|[C++](./Algorithms/Easy/Compare Version Numbers.md)|
