@@ -13,7 +13,7 @@ body = ""
 f = open('readme.txt')
 line = f.readline()
 #标签
-tag = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买', 'D':'Database'}
+tag = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买', 'D':'Mysql'}
 readme = []
 #路径
 algorithmsPath = './Algorithms/'
@@ -32,6 +32,8 @@ for alg in readme:
     lanType = ''
     if len(alg[2]) == 1 :
         lanType = tag[alg[2]] + '|[C++](' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + ".md)" + "|\n"
+    elif len(alg[2]) == 2 and alg[2][1] == 'D':
+        lanType = tag[alg[2][0]] + '|[C++](' + databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md)" + "|\n"
     else:
         lanType = tag[alg[2][0]] + '|'+ tag[alg[2][1]] +'|\n'
     body = body + lanType

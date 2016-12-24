@@ -6,7 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |179|[Largest Number](https://leetcode.com/problems/largest-number)|Medium|[C++](./Algorithms/Medium/Largest Number.md)|
-|172|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|Easy|Database|
+|172|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|Easy|[C++](./Database/Easy/Combine Two Tables.md)|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator)|Medium|[C++](./Algorithms/Medium/Binary Search Tree Iterator.md)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|Easy|[C++](./Algorithms/Easy/Factorial Trailing Zeroes.md)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|Easy|[C++](./Algorithms/Easy/Excel Sheet Column Number.md)|
