@@ -12,9 +12,12 @@ LeetCodeSolution
 body = ""
 f = open('readme.txt')
 line = f.readline()
-nandu = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买'}
+#标签
+tag = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买', 'D':'Database'}
 readme = []
+#路径
 algorithmsPath = './Algorithms/'
+databasePath = './Database/'
 while line:
     readme.append(line)
     line = f.readline()
@@ -28,13 +31,16 @@ for alg in readme:
     body = body + "|" + alg[0] + "|[" + alg[1] + "](https://leetcode.com/problems/"+alg[1].lower().replace(' ','-')+")|"
     lanType = ''
     if len(alg[2]) == 1 :
-        lanType = nandu[alg[2]] + '|[C++](' + algorithmsPath + nandu[alg[2]] + '/' + alg[1] + ".md)" + "|\n"
+        lanType = tag[alg[2]] + '|[C++](' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + ".md)" + "|\n"
     else:
-        lanType = nandu[alg[2][0]] + '|'+ nandu[alg[2][1]] +'|\n'
+        lanType = tag[alg[2][0]] + '|'+ tag[alg[2][1]] +'|\n'
     body = body + lanType
     #创建文件
-    if len(alg[2]) == 1 and not os.path.exists(algorithmsPath + nandu[alg[2]] + '/' + alg[1] + ".md") :
-        os.system('touch "' + algorithmsPath + nandu[alg[2]] + '/' + alg[1] + '.md"')
+    if len(alg[2]) == 1 and not os.path.exists(algorithmsPath + tag[alg[2]] + '/' + alg[1] + ".md") :
+        os.system('touch "' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + '.md"')
+    elif len(alg[2]) == 2 and alg[2][1] == 'D' and not os.path.exists(databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md"):
+        os.system('touch "' + databasePath + tag[alg[2][0]] + '/' + alg[1] + '.md"')
+#README的文本生成
 res = title+body
 
 with open("README.md", 'wb') as code:
