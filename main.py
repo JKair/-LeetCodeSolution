@@ -33,7 +33,7 @@ for alg in readme:
     if len(alg[2]) == 1 :
         lanType = tag[alg[2]] + '|[C++](' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + ".md)" + "|\n"
     elif len(alg[2]) == 2 and alg[2][1] == 'D':
-        lanType = tag[alg[2][0]] + '|[C++](' + databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md)" + "|\n"
+        lanType = tag[alg[2][0]] + '|[Mysql](' + databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md)" + "|\n"
     else:
         lanType = tag[alg[2][0]] + '|'+ tag[alg[2][1]] +'|\n'
     body = body + lanType
