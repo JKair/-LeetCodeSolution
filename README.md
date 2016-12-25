@@ -6,6 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |179|[Largest Number](https://leetcode.com/problems/largest-number)|Medium|[C++](./Algorithms/Medium/Largest Number.md)|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores)|Medium|[Mysql](./Database/Medium/Rank Scores.md)|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)|Medium|[Mysql](./Database/Medium/Nth Highest Salary.md)|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|Easy|[Mysql](./Database/Easy/Second Highest Salary.md)|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|Easy|[Mysql](./Database/Easy/Combine Two Tables.md)|
