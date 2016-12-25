@@ -1,5 +1,6 @@
 179@Largest Number@M
-172@Combine Two Tables@ED
+176@Second Highest Salary@ED
+175@Combine Two Tables@ED
 173@Binary Search Tree Iterator@M
 172@Factorial Trailing Zeroes@E
 171@Excel Sheet Column Number@E
