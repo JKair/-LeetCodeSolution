@@ -20,3 +20,5 @@ SELECT MAX(Salary) as SecondHighestSalary
 FROM Employee
 WHERE Salary < (SELECT MAX(Salary) FROM Employee);
 ```
+
+相似题目[Nth Highest Salary](../Medium/Nth Highest Salary.md)
