@@ -5,6 +5,8 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Medium|[C++](./Algorithms/Medium/Repeated DNA Sequences.md)|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)|Medium|没钱买|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)|Medium|[Mysql](./Database/Medium/Consecutive Numbers.md)|
 |179|[Largest Number](https://leetcode.com/problems/largest-number)|Medium|[C++](./Algorithms/Medium/Largest Number.md)|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores)|Medium|[Mysql](./Database/Medium/Rank Scores.md)|

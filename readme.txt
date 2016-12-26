@@ -1,3 +1,5 @@
+187@Repeated DNA Sequences@M
+186@Reverse Words in a String II@MN
 180@Consecutive Numbers@MD
 179@Largest Number@M
 178@Rank Scores@MD
