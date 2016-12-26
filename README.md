@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|Easy|[C++](./Algorithms/Easy/Reverse Bits.md)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|Easy|[C++](./Algorithms/Easy/Rotate Array.md)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Medium|[C++](./Algorithms/Medium/Repeated DNA Sequences.md)|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)|Medium|没钱买|
