@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|Easy|[C++](./Algorithms/Easy/Rotate Array.md)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Medium|[C++](./Algorithms/Medium/Repeated DNA Sequences.md)|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)|Medium|没钱买|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)|Medium|[Mysql](./Database/Medium/Consecutive Numbers.md)|
