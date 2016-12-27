@@ -1,5 +1,6 @@
 198@House Robber@E
-192@Number of 1 Bits@E
+192@Word Frequency@MS
+191@Number of 1 Bits@E
 190@Reverse Bits@E
 189@Rotate Array@E
 187@Repeated DNA Sequences@M

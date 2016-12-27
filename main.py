@@ -9,20 +9,22 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 """
+readme = []
 body = ""
 f = open('readme.txt')
 line = f.readline()
-#标签
-tag = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买', 'D':'Mysql'}
-readme = []
-#路径
-algorithmsPath = './Algorithms/'
-databasePath = './Database/'
 while line:
     readme.append(line)
     line = f.readline()
 
 f.close()
+
+#标签
+tag = {'M' : 'Medium', 'E':'Easy', 'H':'Hard', 'N':'没钱买', 'D':'Mysql', 'S': 'Shell'}
+#路径
+algorithmsPath = './Algorithms/'
+databasePath = './Database/'
+shellPath = './Shell/'
 
 for alg in readme:
     #生成readme
@@ -34,6 +36,8 @@ for alg in readme:
         lanType = tag[alg[2]] + '|[C++](' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + ".md)" + "|\n"
     elif len(alg[2]) == 2 and alg[2][1] == 'D':
         lanType = tag[alg[2][0]] + '|[Mysql](' + databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md)" + "|\n"
+    elif len(alg[2]) == 2 and alg[2][1] == 'S':
+        lanType = tag[alg[2][0]] + '|[Shell](' + shellPath + tag[alg[2][0]] + '/' + alg[1] + ".md)" + "|\n"
     else:
         lanType = tag[alg[2][0]] + '|'+ tag[alg[2][1]] +'|\n'
     body = body + lanType
@@ -42,6 +46,8 @@ for alg in readme:
         os.system('touch "' + algorithmsPath + tag[alg[2]] + '/' + alg[1] + '.md"')
     elif len(alg[2]) == 2 and alg[2][1] == 'D' and not os.path.exists(databasePath + tag[alg[2][0]] + '/' + alg[1] + ".md"):
         os.system('touch "' + databasePath + tag[alg[2][0]] + '/' + alg[1] + '.md"')
+    elif len(alg[2]) == 2 and alg[2][1] == 'S' and not os.path.exists(shellPath + tag[alg[2][0]] + '/' + alg[1] + ".md"):
+        os.system('touch "' + shellPath + tag[alg[2][0]] + '/' + alg[1] + '.md"')
 #README的文本生成
 res = title+body
 

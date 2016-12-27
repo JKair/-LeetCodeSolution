@@ -6,7 +6,8 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|Easy|[C++](./Algorithms/Easy/House Robber.md)|
-|192|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|Easy|[C++](./Algorithms/Easy/Number of 1 Bits.md)|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency)|Medium|[Shell](./Shell/Medium/Word Frequency.md)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|Easy|[C++](./Algorithms/Easy/Number of 1 Bits.md)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|Easy|[C++](./Algorithms/Easy/Reverse Bits.md)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|Easy|[C++](./Algorithms/Easy/Rotate Array.md)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Medium|[C++](./Algorithms/Medium/Repeated DNA Sequences.md)|
