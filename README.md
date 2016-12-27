@@ -11,6 +11,7 @@ LeetCodeSolution
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|Easy|[C++](./Algorithms/Easy/Rotate Array.md)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|Medium|[C++](./Algorithms/Medium/Repeated DNA Sequences.md)|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)|Medium|没钱买|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary)|Medium|[Mysql](./Database/Medium/Department Highest Salary.md)|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|Easy|[Mysql](./Database/Easy/Customers Who Never Order.md)|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|Easy|[Mysql](./Database/Easy/Duplicate Emails.md)|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|Easy|[Mysql](./Database/Easy/Employees Earning More Than Their Managers.md)|
