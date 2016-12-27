@@ -115,6 +115,7 @@ LeetCodeSolution
 |51|[N-Queens](https://leetcode.com/problems/n-queens)|Hard|[C++](./Algorithms/Hard/N-Queens.md)|
 |50|[Pow(x, n)](https://leetcode.com/problems/pow(x,-n))|Medium|[C++](./Algorithms/Medium/Pow(x, n).md)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|Medium|[C++](./Algorithms/Medium/Group Anagrams.md)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|Medium|[C++](./Algorithms/Medium/Rotate Image.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[C++](./Algorithms/Medium/Permutations II.md)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[C++](./Algorithms/Medium/Permutations.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|Hard|[C++](./Algorithms/Hard/Jump Game II.md)|

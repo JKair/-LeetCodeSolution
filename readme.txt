@@ -108,6 +108,7 @@
 51@N-Queens@H
 50@Pow(x, n)@M
 49@Group Anagrams@M
+48@Rotate Image@M
 47@Permutations II@M
 46@Permutations@M
 45@Jump Game II@H
