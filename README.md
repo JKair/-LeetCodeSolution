@@ -6,6 +6,7 @@ LeetCodeSolution
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|Easy|[C++](./Algorithms/Easy/House Robber.md)|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|Easy|[Shell](./Shell/Easy/Valid Phone Numbers.md)|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency)|Medium|[Shell](./Shell/Medium/Word Frequency.md)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|Easy|[C++](./Algorithms/Easy/Number of 1 Bits.md)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|Easy|[C++](./Algorithms/Easy/Reverse Bits.md)|
