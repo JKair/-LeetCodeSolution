@@ -104,6 +104,7 @@ LeetCodeSolution
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Medium|[C++](./Algorithms/Medium/Unique Paths II.md)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|Medium|[C++](./Algorithms/Medium/Unique Paths.md)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|Medium|[C++](./Algorithms/Medium/Rotate List.md)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|Medium|[C++](./Algorithms/Medium/Permutation Sequence.md)|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|Medium|[C++](./Algorithms/Medium/Spiral Matrix II.md)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|Easy|[C++](./Algorithms/Easy/Length of Last Word.md)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|Hard|[C++](./Algorithms/Hard/Merge Intervals.md)|

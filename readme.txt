@@ -97,6 +97,7 @@
 63@Unique Paths II@M
 62@Unique Paths@M
 61@Rotate List@M
+60@Permutation Sequence@M
 59@Spiral Matrix II@M
 58@Length of Last Word@E
 56@Merge Intervals@H
