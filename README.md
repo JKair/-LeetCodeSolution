@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|202|[Happy Number](https://leetcode.com/problems/happy-number)|Easy|[C++](./Algorithms/Easy/Happy Number.md)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|Medium|[C++](./Algorithms/Medium/Bitwise AND of Numbers Range.md)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|Medium|[C++](./Algorithms/Medium/Binary Tree Right Side View.md)|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|Easy|[C++](./Algorithms/Easy/House Robber.md)|
