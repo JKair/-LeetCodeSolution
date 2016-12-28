@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|Medium|[C++](./Algorithms/Medium/Binary Tree Right Side View.md)|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|Easy|[C++](./Algorithms/Easy/House Robber.md)|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|Easy|[Shell](./Shell/Easy/Valid Phone Numbers.md)|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency)|Medium|[Shell](./Shell/Medium/Word Frequency.md)|
