@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|Easy|[C++](./Algorithms/Easy/Isomorphic Strings.md)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|Easy|[C++](./Algorithms/Easy/Count Primes.md)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|Easy|[C++](./Algorithms/Easy/Remove Linked List Elements.md)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|Easy|[C++](./Algorithms/Easy/Happy Number.md)|
