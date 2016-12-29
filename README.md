@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|204|[Count Primes](https://leetcode.com/problems/count-primes)|Easy|[C++](./Algorithms/Easy/Count Primes.md)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|Easy|[C++](./Algorithms/Easy/Remove Linked List Elements.md)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|Easy|[C++](./Algorithms/Easy/Happy Number.md)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|Medium|[C++](./Algorithms/Medium/Bitwise AND of Numbers Range.md)|
