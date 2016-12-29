@@ -12,6 +12,7 @@ LeetCodeSolution
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|Medium|[C++](./Algorithms/Medium/Bitwise AND of Numbers Range.md)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|Medium|[C++](./Algorithms/Medium/Binary Tree Right Side View.md)|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|Easy|[C++](./Algorithms/Easy/House Robber.md)|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)|Easy|[Mysql](./Database/Easy/Delete Duplicate Emails.md)|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line)|Easy|[Shell](./Shell/Easy/Tenth Line.md)|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|Easy|[Shell](./Shell/Easy/Valid Phone Numbers.md)|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency)|Medium|[Shell](./Shell/Medium/Word Frequency.md)|
