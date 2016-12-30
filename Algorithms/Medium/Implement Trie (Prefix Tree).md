@@ -70,3 +70,5 @@ private:
 // trie.insert("somestring");
 // trie.search("key");
 ```
+
+相似题目[Add and Search Word - Data structure design](./Add and Search Word - Data structure design.md)

@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word---data-structure-design)|Medium|[C++](./Algorithms/Medium/Add and Search Word - Data structure design.md)|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|Medium|[C++](./Algorithms/Medium/Course Schedule II.md)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|Medium|[C++](./Algorithms/Medium/Minimum Size Subarray Sum.md)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree))|Medium|[C++](./Algorithms/Medium/Implement Trie (Prefix Tree).md)|
