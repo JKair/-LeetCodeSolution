@@ -7,6 +7,7 @@ LeetCodeSolution
 |:--:|:--:|:--:|:--:|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|Medium|[C++](./Algorithms/Medium/Course Schedule II.md)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|Medium|[C++](./Algorithms/Medium/Minimum Size Subarray Sum.md)|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree))|Medium|[C++](./Algorithms/Medium/Implement Trie (Prefix Tree).md)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule)|Medium|[C++](./Algorithms/Medium/Course Schedule.md)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[C++](./Algorithms/Easy/Reverse Linked List.md)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|Easy|[C++](./Algorithms/Easy/Isomorphic Strings.md)|
