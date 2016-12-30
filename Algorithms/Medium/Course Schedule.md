@@ -9,9 +9,11 @@ Given the total number of courses and a list of prerequisite pairs, is it possib
 For example:
 
 `2, [[1,0]]`
+
 There are a total of 2 courses to take. To take course 1 you should have finished course 0. So it is possible.
 
 `2, [[1,0],[0,1]]`
+
 There are a total of 2 courses to take. To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible.
 
 这道题让我们看一下我们能不能修完所有的课程，我们读大学的时候，想修其他门课程的时候，有时候会有一些课有先修课程，而且有可能不止一门，所以有些课不能直接修，有些课没有先修课程，就可以直接修。
