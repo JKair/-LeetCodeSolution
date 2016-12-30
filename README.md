@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|Easy|[C++](./Algorithms/Easy/Contains Duplicate.md)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|Medium|[C++](./Algorithms/Medium/Combination Sum III.md)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|Medium|[C++](./Algorithms/Medium/Kth Largest Element in an Array.md)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|Medium|[C++](./Algorithms/Medium/House Robber II.md)|
