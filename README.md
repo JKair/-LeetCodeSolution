@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|Medium|[C++](./Algorithms/Medium/Kth Largest Element in an Array.md)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|Medium|[C++](./Algorithms/Medium/House Robber II.md)|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word---data-structure-design)|Medium|[C++](./Algorithms/Medium/Add and Search Word - Data structure design.md)|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|Medium|[C++](./Algorithms/Medium/Course Schedule II.md)|
