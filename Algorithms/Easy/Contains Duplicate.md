@@ -32,3 +32,5 @@ public:
     }
 };
 ```
+
+相似题目[Contains Duplicate II](./Contains Duplicate II.md)
