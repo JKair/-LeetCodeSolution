@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|Medium|[C++](./Algorithms/Medium/Count Complete Tree Nodes.md)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|Easy|[C++](./Algorithms/Easy/Contains Duplicate II.md)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|Easy|[C++](./Algorithms/Easy/Contains Duplicate.md)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|Medium|[C++](./Algorithms/Medium/Combination Sum III.md)|
