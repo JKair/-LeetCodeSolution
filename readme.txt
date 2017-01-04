@@ -1,3 +1,4 @@
+226@Invert Binary Tree@E
 225@Implement Stack using Queues@E
 223@Rectangle Area@E
 222@Count Complete Tree Nodes@M

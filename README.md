@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|Easy|[C++](./Algorithms/Easy/Invert Binary Tree.md)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|Easy|[C++](./Algorithms/Easy/Implement Stack using Queues.md)|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area)|Easy|[C++](./Algorithms/Easy/Rectangle Area.md)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|Medium|[C++](./Algorithms/Medium/Count Complete Tree Nodes.md)|
