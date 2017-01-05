@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)|Medium|[C++](./Algorithms/Medium/Basic Calculator II.md)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|Easy|[C++](./Algorithms/Easy/Invert Binary Tree.md)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|Easy|[C++](./Algorithms/Easy/Implement Stack using Queues.md)|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area)|Easy|[C++](./Algorithms/Easy/Rectangle Area.md)|
