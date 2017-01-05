@@ -8,6 +8,7 @@ LeetCodeSolution
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)|Medium|[C++](./Algorithms/Medium/Basic Calculator II.md)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|Easy|[C++](./Algorithms/Easy/Invert Binary Tree.md)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|Easy|[C++](./Algorithms/Easy/Implement Stack using Queues.md)|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator)|Hard|[C++](./Algorithms/Hard/Basic Calculator.md)|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area)|Easy|[C++](./Algorithms/Easy/Rectangle Area.md)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|Medium|[C++](./Algorithms/Medium/Count Complete Tree Nodes.md)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|Easy|[C++](./Algorithms/Easy/Contains Duplicate II.md)|
