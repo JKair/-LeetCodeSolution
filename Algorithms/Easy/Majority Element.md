@@ -32,3 +32,5 @@ public:
     }
 };
 ```
+
+相似题目[Majority Element II](../Medium/Majority Element II.md)

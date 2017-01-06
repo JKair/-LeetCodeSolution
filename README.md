@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii)|Medium|[C++](./Algorithms/Medium/Majority Element II.md)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|Medium|[C++](./Algorithms/Medium/Summary Ranges.md)|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)|Medium|[C++](./Algorithms/Medium/Basic Calculator II.md)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|Easy|[C++](./Algorithms/Easy/Invert Binary Tree.md)|
