@@ -5,6 +5,7 @@ LeetCodeSolution
 
 |id|标题|难度|语言|
 |:--:|:--:|:--:|:--:|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|Medium|[C++](./Algorithms/Medium/Kth Smallest Element in a BST.md)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii)|Medium|[C++](./Algorithms/Medium/Majority Element II.md)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|Medium|[C++](./Algorithms/Medium/Summary Ranges.md)|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)|Medium|[C++](./Algorithms/Medium/Basic Calculator II.md)|
